@@ -7,9 +7,9 @@ public class NumSquared {
       int userNumSquared;
       
       userNum = scnr.nextInt();
-      
-      userNumSquared = userNum + userNum;   // Bug here; fix it when instructed
-      
-      System.out.print(userNumSquared);   // Output formatting issue here; fix it when instructed
+
+      userNumSquared = userNum * userNum;
+
+      System.out.println(userNumSquared);
    }
 }

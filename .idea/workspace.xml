@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b400ec1a-6673-4e17-b94b-eceaca80830a" name="Changes" comment="1/29/23 3:51 PM">
+      <change afterPath="$PROJECT_DIR$/Labs/DivideIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/OneLargeProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/WelcomeMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/DoubleNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/DoubleNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/HouseSummary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/NumSquared.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/NumSquared.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/ParkingSign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/RightArrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/RightArrow.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L13xAnQos9L0aN9Nuqw9UIil74" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b400ec1a-6673-4e17-b94b-eceaca80830a" name="Changes" comment="" />
+      <created>1675025005238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675025005238</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1/29/23 3:51 PM">
+      <created>1675025603888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675025603888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1/29/23 3:51 PM" />
+    <option name="LAST_COMMIT_MESSAGE" value="1/29/23 3:51 PM" />
+  </component>
+</project>
